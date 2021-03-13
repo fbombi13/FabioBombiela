@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Electronic Engineering,Universidad Distrital Francisco Jose De Caldas, 2019
+* M.S.(In progress) in Jekyll, Universidad Distrital Francisco Jose De Caldas, 2021* 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Universidad Distrital Francisco Jose de Caldas: Lab Assistant
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Endava SAS: Intern Tester
+  * Duties included: Raising issues,create Test cases
+
+* Endava SAS: Junior Automation Tester
+  * Duties included: Raising issues,create Test cases
+
+* Endava SAS: Technician Automation Tester
+  * Duties included: Raising issues,create Test cases
+
+* Endava SAS: Senior Technician Automation Tester
+  * Duties included: Raising issues,create Test cases
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Fast learner
+* Self Study
+* Proactive
+  * Challenging
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Assertive communications
+
 
 Publications
 ======

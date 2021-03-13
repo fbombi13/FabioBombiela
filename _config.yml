@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fabio Andres Bombiela Ramirez"
   avatar           : "Yo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Passionate about challenges, fond of technology"
   location         : "Bogotá/Colombia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "fbombi13"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/fabio-bombiela-ramirez-17b19a185/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
