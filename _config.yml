@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sitio "
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Fabio Andres Bombiela Ramirez"
 description              : &description "personal description"
