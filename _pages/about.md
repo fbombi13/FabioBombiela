@@ -1,9 +1,17 @@
+---
+permalink: /
+title: "Knowing Fabio Bombiela"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am currently an Automation Tester Engineer at Endava SAS. My research interests are Automation, Artificial Intelligence,Electronical Control, IoT and Security.  I am an ISTQB Certified Professional Tester and, currently, an expert Autmomation tester for .NET.
 
 I have a degree in Electronic Engineering from the Universidad Distrital Francisco Jose de Caldas (awarded with honorable mention on 2 occasions). I am currently pursuing a master's degree in Information Science and Communications at the same university. Previously I worked as a research lab monitor at Universidad Distrital Francisco Jose de Caldas, main co-founder of a small startup focused on electronics markets.
 
-sds
 <!--  
 A data-driven personal website
 ======
@@ -43,12 +51,3 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
----
-permalink: /
-title: "Knowing Fabio Bombiela"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----

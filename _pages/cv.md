@@ -1,10 +1,18 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
 {% include base_path %}
 
 Education
 ======
 * B.S. Electronic Engineering,Universidad Distrital Francisco Jose De Caldas, 2019
-* M.S.(In progress) in Information and Communications Sciences, Universidad Distrital Francisco Jose De Caldas, 2021* m bnb nbnbnbnbn
+* M.S.(In progress) in Information and Communications Sciences, Universidad Distrital Francisco Jose De Caldas, 2021*
 
 Work experience
 ======
@@ -53,11 +61,3 @@ Talks
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
