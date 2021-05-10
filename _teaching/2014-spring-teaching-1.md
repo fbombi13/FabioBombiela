@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching"
 collection: teaching
-type: "Undergraduate course"
+type: "On demand courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Universidad Distrital, Facultadad de Ingenieria, Laboratorios"
 date: 2014-01-01
-location: "City, Country"
+location: "Bogota, Colombia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I worked as a monitor in the engineering laboratories of the university.
