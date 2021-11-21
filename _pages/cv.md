@@ -13,22 +13,36 @@ Education
 ======
 * B.S. Electronic Engineering,Universidad Distrital Francisco Jose De Caldas, 2019
 * M.S.(In progress) in Information and Communications Sciences, Universidad Distrital Francisco Jose De Caldas, 2021*
+* DS4A/Correlation One - Data science knowledge 
 
 Work experience
 ======
-* Universidad Distrital Francisco Jose de Caldas: Lab Assistant
+
+* Endava SAS: Engineer Automation Tester (Senior Tester) **_(Current)_**
+  * Duties included: Raising issues,create Test cases, planning, test estimation
+
+* Endava SAS: Senior Technician Automation Tester (Tester)
+  * Duties included: Raising issues,create Test cases
+
+* Endava SAS: Technician Automation Tester (Tester)
+  * Duties included: Raising issues,create Test cases
+
+* Endava SAS: Junior Automation Tester (Junior Tester)
+  * Duties included: Raising issues,create Test cases
 
 * Endava SAS: Intern Tester
   * Duties included: Raising issues,create Test cases
 
-* Endava SAS: Junior Automation Tester
-  * Duties included: Raising issues,create Test cases
+* Universidad Distrital Francisco Jose de Caldas: Lab Assistant
 
-* Endava SAS: Technician Automation Tester
-  * Duties included: Raising issues,create Test cases
 
-* Endava SAS: Senior Technician Automation Tester
-  * Duties included: Raising issues,create Test cases
+Achievements
+======
+
+* Awarded with honorable mention on 2 occasions at Universidad Distrital
+
+* 5th Best Project at DS4A 2021 Edition (May - Nov)
+
   
 Skills
 ======
@@ -39,25 +53,15 @@ Skills
 
 * Assertive communication
 
-
-<!-- Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
+<ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+
