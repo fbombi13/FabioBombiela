@@ -11,9 +11,9 @@ title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Fabio Andres Bombiela Ramirez"
 description              : &description "personal description"
-url                      : https://fbombi13.github.io/FabioBombiela.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fbombi13.github.io/FabioBombiela/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fbombi13/FabioBombiela.github.io"
+repository               : "fbombi13/FabioBombiela"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
