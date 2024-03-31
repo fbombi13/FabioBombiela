@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 'CV'
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,59 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. Electronic Engineering,Universidad Distrital Francisco Jose De Caldas, 2019
-* M.S.(In progress) in Information and Communications Sciences, Universidad Distrital Francisco Jose De Caldas, 2021*
-* DS4A/Correlation One - Data science knowledge 
+# Education
 
-Work experience
-======
+- B.S. Electronic Engineering,Universidad Distrital Francisco Jose De Caldas, 2019
+- M.S.(In progress) in Information and Communications Sciences, Universidad Distrital Francisco Jose De Caldas, 2021\*
+- DS4A/Correlation One - Data science knowledge
 
-* Endava SAS: Engineer Automation Tester (Senior Tester) **_(Current)_**
-  * Duties included: Raising issues,create Test cases, planning, test estimation
+# Work experience
 
-* Endava SAS: Senior Technician Automation Tester (Tester)
-  * Duties included: Raising issues,create Test cases
+- Endava SAS: Engineer Automation Tester (Senior Tester) **_(Current)_**
 
-* Endava SAS: Technician Automation Tester (Tester)
-  * Duties included: Raising issues,create Test cases
+  - Duties included: Raising issues,create Test cases, planning, test estimation
 
-* Endava SAS: Junior Automation Tester (Junior Tester)
-  * Duties included: Raising issues,create Test cases
+- Endava SAS: Senior Technician Automation Tester (Tester)
 
-* Endava SAS: Intern Tester
-  * Duties included: Raising issues,create Test cases
+  - Duties included: Raising issues,create Test cases
 
-* Universidad Distrital Francisco Jose de Caldas: Lab Assistant
+- Endava SAS: Technician Automation Tester (Tester)
 
+  - Duties included: Raising issues,create Test cases
 
-Achievements
-======
+- Endava SAS: Junior Automation Tester (Junior Tester)
 
-* Awarded with honorable mention on 2 occasions at Universidad Distrital
+  - Duties included: Raising issues,create Test cases
 
-* 5th Best Project at DS4A 2021 Edition (May - Nov)
+- Endava SAS: Intern Tester
 
-  
-Skills
-======
-* Fast learner
-* Self Study
-* Proactive
-  * Challenging
+  - Duties included: Raising issues,create Test cases
 
-* Assertive communication
+- Universidad Distrital Francisco Jose de Caldas: Lab Assistant
 
-Projects
-======
+# Achievements
+
+- Awarded with honorable mention on 2 occasions at Universidad Distrital
+
+- 5th Best Project at DS4A 2021 Edition (May - Nov)
+
+# Skills
+
+- Fast learner
+- Self Study
+- Proactive
+
+  - Challenging
+
+- Assertive communication
+
+# Projects
+
 <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-
