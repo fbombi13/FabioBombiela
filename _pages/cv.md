@@ -17,7 +17,9 @@ redirect_from:
 
 # Work experience
 
-- Endava SAS: Engineer Automation Tester (Senior Tester) **_(Current)_**
+- EPAM Systems: Senior Automation Tester in NET **_(Current)_**
+
+- Endava SAS: Engineer Automation Tester (Senior Tester)
 
   - Duties included: Raising issues,create Test cases, planning, test estimation
 
