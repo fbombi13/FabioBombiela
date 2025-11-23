@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "About Me"
+title                    : "Fabio Bombiela - Automation Engineer & IoT Specialist"
 title_separator          : "-"
 name                     : &name "Fabio Andres Bombiela Ramirez"
-description              : &description "personal description"
+description              : &description "Automation Tester Engineer at EPAM Systems specializing in .NET test automation, IoT solutions, and electronic systems. ISTQB Certified with expertise in AI and security."
 url                      : https://fbombi13.github.io/FabioBombiela/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "Yo.jpeg"
   name             : "Fabio Andres Bombiela Ramirez"
   pronouns         : # example: "she/her"  
-  bio              : "Passionate about challenges"
+  bio              : "Automation Engineer | ISTQB Certified | IoT Enthusiast | M.Sc. Student"
   location         : "Bogotá/Colombia"
   employer         :
   uri              : # URL
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "username.bsky.social" - Add your Bluesky username if you have one
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

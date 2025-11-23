@@ -1,0 +1,113 @@
+/* Custom styles for Fabio Bombiela's portfolio */
+
+/* Enhanced page titles with gradient */
+.page__title {
+  font-size: 2.5em;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+}
+
+/* Emoji spacing fix */
+h3:has(+ p) {
+  margin-bottom: 0.5em;
+}
+
+/* Skill sections styling */
+.page__content h3 {
+  color: #2563eb;
+  border-left: 4px solid #2563eb;
+  padding-left: 1rem;
+  margin-top: 2rem;
+}
+
+/* List improvements */
+.page__content ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.page__content ul li {
+  padding-left: 1.5em;
+  position: relative;
+  margin-bottom: 0.5em;
+}
+
+.page__content ul li:before {
+  content: "▸";
+  color: #10b981;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+}
+
+/* Achievement badges */
+.page__content p:has(🎓),
+.page__content p:has(🏆) {
+  background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border-left: 4px solid #2563eb;
+  margin: 1rem 0;
+}
+
+/* Code and technical terms */
+.page__content strong {
+  color: #1e40af;
+  font-weight: 600;
+}
+
+/* Links styling */
+.page__content a {
+  color: #2563eb;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+.page__content a:hover {
+  border-bottom-color: #2563eb;
+}
+
+/* Horizontal rule styling */
+.page__content hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #e5e7eb, transparent);
+  margin: 2rem 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .page__title {
+    font-size: 2em;
+  }
+  
+  .page__content h3 {
+    font-size: 1.25em;
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .page__content h3 {
+    color: #60a5fa;
+    border-left-color: #60a5fa;
+  }
+  
+  .page__content p:has(🎓),
+  .page__content p:has(🏆) {
+    background: linear-gradient(135deg, #1e3a5f 0%, #1e40af 100%);
+  }
+  
+  .page__content strong {
+    color: #93c5fd;
+  }
+  
+  .page__content a {
+    color: #60a5fa;
+  }
+  
+  .page__content a:hover {
+    border-bottom-color: #60a5fa;
+  }
+}
