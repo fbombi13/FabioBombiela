@@ -11,17 +11,15 @@ main:
   - title: "Skills"
     url: /skills/
 
+  - title: "Blog"
+    url: /year-archive/
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
             
-  - title: "Projects"
-    url: /projects/
-    
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
