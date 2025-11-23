@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Fabio Bombiela - Automation Engineer & IoT Specialist"
+title                    : "Fabio Bombiela - Senior Software Test Automation Engineer | AI & IoT Specialist"
 title_separator          : "-"
 name                     : &name "Fabio Andres Bombiela Ramirez"
-description              : &description "Automation Tester Engineer at EPAM Systems specializing in .NET test automation, IoT solutions, and electronic systems. ISTQB Certified with expertise in AI and security."
+description              : &description "Senior Software Test Automation Engineer at EPAM Systems specializing in .NET test automation, IoT solutions, and electronic systems. ISTQB Certified with expertise in AI and security."
 url                      : https://fbombi13.github.io/FabioBombiela/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

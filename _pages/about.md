@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fabio Bombiela - Automation Engineer & IoT Specialist"
+title: "Fabio Bombiela - Senior Software Test Automation Engineer | AI & IoT Specialist"
 excerpt: "Building reliable software through intelligent automation"
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 
 ## Hi, I'm Fabio! 👋
 
-I'm an Automation Tester Engineer at EPAM Systems, where I design and implement enterprise-level test automation frameworks for .NET applications, with expertise in Performance Testing using industry-standard tools. With a background in Electronic Engineering and a passion for AI and emerging technologies, I bridge the gap between intelligent systems and robust software testing.
+I'm a Senior Software Test Automation Engineer at EPAM Systems, where I design and implement enterprise-level test automation frameworks for .NET applications, with expertise in Performance Testing using industry-standard tools. With a background in Electronic Engineering and a passion for AI and emerging technologies, I bridge the gap between intelligent systems and robust software testing.
 
 Currently pursuing my Master's degree in Information Science and Communications at Universidad Distrital Francisco José de Caldas, I'm exploring the intersection of Artificial Intelligence, automated testing, and IoT systems.
 
