@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 'CV'
+title: 'Curriculum Vitae'
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,62 +9,175 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Professional Summary
 
-- B.S. Electronic Engineering,Universidad Distrital Francisco Jose De Caldas, 2019
-- M.S.(In progress) in Information and Communications Sciences, Universidad Distrital Francisco Jose De Caldas, 2021\*
-- DS4A/Correlation One - Data science knowledge
+AI & Automation Engineer with 5+ years of experience in test automation, performance testing, and IoT systems. Experienced in Performance Testing with Gatling, JMeter, and Locust. Specialized in AI-powered testing solutions. ISTQB Certified with proven track record of delivering enterprise-level automation frameworks and mentoring teams.
 
-# Work experience
+---
 
-- EPAM Systems: Senior Automation Tester in NET **_(Current)_**
+## Education
 
-- Endava SAS: Engineer Automation Tester (Senior Tester)
+**M.Sc. Information and Communications Sciences** (In Progress)  
+Universidad Distrital Francisco José de Caldas | 2021 - Present  
+*Focus: Artificial Intelligence, IoT Systems, Data Analytics*
 
-  - Duties included: Raising issues,create Test cases, planning, test estimation
+**B.Sc. Electronic Engineering** | 2019  
+Universidad Distrital Francisco José de Caldas  
+*Graduated with Honorable Mention (2 occasions)*
 
-- Endava SAS: Senior Technician Automation Tester (Tester)
+**Correlation One - DS4A Certificate** | 2021  
+Data Science for All - Government Course  
+*5th Best Project (May - Nov 2021 Edition)*
 
-  - Duties included: Raising issues,create Test cases
+---
 
-- Endava SAS: Technician Automation Tester (Tester)
+## Professional Experience
 
-  - Duties included: Raising issues,create Test cases
+### EPAM Systems
+**Senior Automation Tester - .NET** | Current  
+*Bogotá, Colombia*
 
-- Endava SAS: Junior Automation Tester (Junior Tester)
+- Design and implement enterprise-level test automation frameworks for .NET applications
+- Lead Performance Testing initiatives using Gatling, JMeter, and Locust
+- Develop AI-powered test case generation and optimization tools
+- Mentor junior engineers and conduct technical training sessions
+- Integrate automated testing into CI/CD pipelines (Azure DevOps, Github Actions)
 
-  - Duties included: Raising issues,create Test cases
+**Key Achievements:**
 
-- Endava SAS: Intern Tester
+- Improved application performance through performance testing
+- Reduced test execution time by 50% through parallelization
 
-  - Duties included: Raising issues,create Test cases
+### Endava SAS
+**Automation Tester** | 2018 - 2023  
+*Progression: Intern → Junior → Technician → Senior Technician → Engineer*
 
-- Universidad Distrital Francisco Jose de Caldas: Lab Assistant
+- Developed and maintained test automation suites frameworks using Selenium WebDriver
+- Reduced manual testing effort by 70% through automation framework
+- Created test cases, test plans, and test estimation
+- Performed functional, regression, and API testing
+- Collaborated with development teams in Agile environment
+- Raised and tracked defects through resolution
 
-# Achievements
+**Key Achievements:**
+- Implemented BDD framework with SpecFlow
+- Achieved 95% test coverage for critical business flows
+- Reduced test execution time by 50% through parallelization
 
-- Awarded with honorable mention on 2 occasions at Universidad Distrital
+### Universidad Distrital Francisco José de Caldas
+**Laboratory Assistant** | 2017 - 2019  
+*Engineering Faculty*
 
-- 5th Best Project at DS4A 2021 Edition (May - Nov)
+- Assisted students in electronics and embedded systems laboratories
+- Maintained laboratory equipment and materials
+- Supported professors in course preparation
+- Mentored students in project development
 
-# Skills
+---
 
-- Fast learner
-- Self Study
-- Proactive
+## Certifications
 
-  - Challenging
+🏆 **ISTQB Certified Tester Foundation Level**  
+International Software Testing Qualifications Board
 
-- Assertive communication
+🏆 **Correlation One Certificate**  
+Government Course - Data Analytics and Decision Making
 
-# Projects
+---
+
+## Technical Skills
+
+### AI & Machine Learning
+Machine Learning, Deep Learning, Computer Vision, NLP, TensorFlow, PyTorch, scikit-learn
+
+### Testing & Automation
+Performance Testing (Gatling, JMeter, Locust), Selenium WebDriver, SpecFlow, NUnit/xUnit, API Testing, Load Testing, Playwright.
+
+### Development
+C# / .NET Core (Expert), Java (Intermediate), Python (Intermediate), JavaScript, TypeScript, SQL, MongoDB. 
+
+### DevOps & CI/CD
+Azure DevOps,Gitlab CI, GitHub Actions, Docker, Jenkins
+
+### IoT & Electronics
+Arduino, Raspberry Pi, ESP32, MQTT, Embedded Systems,Orange Pi.
+
+---
+
+## Key Projects
+
+### Enterprise Test Automation Framework
+Designed scalable .NET automation framework with CI/CD integration
+- 70% reduction in manual testing effort
+- 95% test coverage for critical flows
+
+### Performance Testing Suite
+Comprehensive load and stress testing using Gatling, JMeter, and Locust
+- Tested up to 10,000 concurrent users
+- Identified 5 critical bottlenecks before production
+
+### Smart IoT Monitoring System
+Real-time sensor monitoring platform
+- 24/7 environmental monitoring
+- 30% energy savings through intelligent control
+
+---
+
+## Teaching & Mentoring
+
+### Test Automation with .NET Workshop Series
+EPAM Systems | 2024
+- Trained engineers in Selenium
+
+### IoT Systems Development Course
+Universidad Distrital | 2022
+- Taught embedded systems, sensors, and cloud integration
+- Supervised student projects in smart systems
+
+---
+
+## Conference Talks & Presentations
+
+### Testing with C#: Best Practices
+EPAM Systems Internal Training | July 2025
+
+### Test Automation Frameworks: Design Patterns
+Testing Meetup Bogotá | March 2023
+- Framework architecture patterns
+- Best practices for maintainability
+
+### Mobile Testing Workshop
+Endava Department of Testing | March 2020
+- Mobile testing strategies
+- Hands-on Appium workshop
+
+---
+
+## Soft Skills
+
+- **Leadership**: Team mentoring, technical training, knowledge sharing
+- **Communication**: Technical presentations, documentation, cross-functional collaboration
+- **Problem Solving**: Analytical thinking, debugging, root cause analysis
+- **Agile Methodologies**: Scrum, Kanban, continuous improvement
+- **Fast Learner**: Quick adaptation to new technologies and frameworks
+- **Proactive**: Self-motivated, initiative-driven, continuous learning
+
+---
+
+## Languages
+
+- **Spanish**: Native
+- **English**: Professional working proficiency
+
+---
+
+## Publications & Portfolio
 
 <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+---
+
+*Last updated: November 2025*  
+*Download PDF version: [Coming soon]*

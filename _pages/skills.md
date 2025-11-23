@@ -33,10 +33,10 @@ author_profile: true
 
 ## Performance Testing & Automation
 
-### Performance Testing (Expert Level)
-- **C# Performance Testing** - Load, stress, and endurance testing
-- **Performance Profiling** - Memory and CPU optimization
-- **Load Testing Tools** - JMeter, k6, Gatling
+### Performance Testing
+- **Load Testing Tools** - Gatling, JMeter, Locust
+- **Performance Profiling** - Application performance analysis
+- **Stress & Endurance Testing** - System reliability validation
 - **APM Tools** - Application Performance Monitoring
 - **Performance Metrics** - Response time, throughput, resource utilization
 

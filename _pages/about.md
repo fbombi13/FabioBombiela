@@ -10,7 +10,7 @@ redirect_from:
 
 ## Hi, I'm Fabio! 👋
 
-I'm an Automation Tester Engineer at EPAM Systems, where I design and implement enterprise-level test automation frameworks for .NET applications, with specialized expertise in Performance Testing. With a background in Electronic Engineering and a passion for AI and emerging technologies, I bridge the gap between intelligent systems and robust software testing.
+I'm an Automation Tester Engineer at EPAM Systems, where I design and implement enterprise-level test automation frameworks for .NET applications, with expertise in Performance Testing using industry-standard tools. With a background in Electronic Engineering and a passion for AI and emerging technologies, I bridge the gap between intelligent systems and robust software testing.
 
 Currently pursuing my Master's degree in Information Science and Communications at Universidad Distrital Francisco José de Caldas, I'm exploring the intersection of Artificial Intelligence, automated testing, and IoT systems.
 
@@ -20,7 +20,7 @@ Currently pursuing my Master's degree in Information Science and Communications 
 Exploring the intersection of Artificial Intelligence and software testing. Applying machine learning concepts to test automation, computer vision, and intelligent system validation.
 
 ⚡ **Test Automation & Performance Engineering**  
-Designing robust, scalable test automation frameworks using C#, Selenium, and modern CI/CD practices. Specialized in Performance Testing with C# for .NET applications. ISTQB Certified Professional Tester with deep expertise in .NET ecosystems.
+Designing robust, scalable test automation frameworks using C#, Selenium, and modern CI/CD practices. Experienced in Performance Testing with Gatling, JMeter, and Locust for load and stress testing. ISTQB Certified Professional Tester with deep expertise in .NET ecosystems.
 
 🔬 **IoT & Electronic Systems**  
 Developing intelligent IoT solutions combining my electronics background with modern software practices. From circuit design to cloud integration and embedded systems.
@@ -37,7 +37,7 @@ Sharing knowledge through workshops, talks, and university lab monitoring. Passi
 - AI-powered Test Generation
 
 **Automation & Performance Testing**
-- C# Performance Testing (Expert)
+- Performance Testing (Gatling, JMeter, Locust)
 - Selenium WebDriver, SpecFlow, NUnit/xUnit
 - Azure DevOps, GitHub Actions
 - API Testing, Load Testing, Stress Testing
