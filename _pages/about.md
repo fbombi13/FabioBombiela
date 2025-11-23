@@ -10,42 +10,53 @@ redirect_from:
 
 ## Hi, I'm Fabio! 👋
 
-I'm an Automation Tester Engineer at EPAM Systems, where I design and implement enterprise-level test automation frameworks for .NET applications. With a background in Electronic Engineering and a passion for emerging technologies, I bridge the gap between hardware and software to create innovative solutions.
+I'm an Automation Tester Engineer at EPAM Systems, where I design and implement enterprise-level test automation frameworks for .NET applications, with specialized expertise in Performance Testing using C#. With a background in Electronic Engineering and a passion for AI and emerging technologies, I bridge the gap between intelligent systems and robust software testing.
 
-Currently pursuing my Master's degree in Information Science and Communications at Universidad Distrital Francisco José de Caldas, I'm exploring the intersection of AI, IoT, and automated testing.
+Currently pursuing my Master's degree in Information Science and Communications at Universidad Distrital Francisco José de Caldas, I'm exploring the intersection of Artificial Intelligence, automated testing, and IoT systems.
 
 ### What I Do
 
-🤖 **Test Automation Engineering**  
-Designing robust, scalable test automation frameworks using C#, Selenium, and modern CI/CD practices. ISTQB Certified Professional Tester with expertise in .NET ecosystems.
+🤖 **AI & Intelligent Systems**  
+Exploring the intersection of Artificial Intelligence and software testing. Applying machine learning concepts to test automation, computer vision, and intelligent system validation.
+
+⚡ **Test Automation & Performance Engineering**  
+Designing robust, scalable test automation frameworks using C#, Selenium, and modern CI/CD practices. Specialized in Performance Testing with C# for .NET applications. ISTQB Certified Professional Tester with deep expertise in .NET ecosystems.
 
 🔬 **IoT & Electronic Systems**  
-Developing intelligent IoT solutions combining my electronics background with modern software practices. From circuit design to cloud integration.
+Developing intelligent IoT solutions combining my electronics background with modern software practices. From circuit design to cloud integration and embedded systems.
 
 🎓 **Teaching & Mentoring**  
-Sharing knowledge through workshops, talks, and university lab monitoring. Passionate about helping others grow in automation and electronics.
+Sharing knowledge through workshops, talks, and university lab monitoring. Passionate about helping others grow in automation, AI, and electronics.
 
 ### Technical Expertise
 
-**Automation & Testing**
+**AI & Machine Learning**
+- Machine Learning & Deep Learning
+- Computer Vision with OpenCV
+- Natural Language Processing
+- AI-powered Test Generation
+
+**Automation & Performance Testing**
+- C# Performance Testing (Expert)
 - Selenium WebDriver, SpecFlow, NUnit/xUnit
 - Azure DevOps, GitHub Actions
-- API Testing, Performance Testing
+- API Testing, Load Testing, Stress Testing
 
 **Development**
-- C# / .NET Core
+- C# / .NET Core (Expert)
 - Python, JavaScript
 - SQL, MongoDB
 
 **IoT & Electronics**
-- Arduino, Raspberry Pi
+- Arduino, Raspberry Pi, ESP32
 - Embedded Systems, Microcontrollers
 - Circuit Design & PCB
+- Sensor Integration & Data Analytics
 
-**AI & Emerging Tech**
-- Machine Learning basics
-- Computer Vision
-- Security & Cryptography
+**Security & Cryptography**
+- Secure coding practices
+- OWASP Top 10
+- Cryptographic protocols
 
 ### Education & Achievements
 
@@ -57,9 +68,11 @@ Universidad Distrital Francisco José de Caldas
 
 🏆 **ISTQB Certified Professional Tester**
 
+🏆 **Correlation One Certificate** - Government Course
+
 ### Beyond Work
 
-When I'm not automating tests or building IoT devices, you'll find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the tech community in Bogotá.
+When I'm not automating tests, exploring AI applications, or building IoT devices, you'll find me diving into new technologies, contributing to open-source projects, or sharing knowledge with the tech community in Bogotá.
 
 ---
 

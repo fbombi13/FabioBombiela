@@ -4,7 +4,41 @@ permalink: /skills/
 author_profile: true
 ---
 
-## Testing & Automation
+## AI & Machine Learning
+
+### Machine Learning & Deep Learning
+- **Supervised & Unsupervised Learning** - Classification, regression, clustering
+- **Neural Networks** - Deep learning fundamentals
+- **TensorFlow/Keras** - Model development and training
+- **PyTorch** - Deep learning framework
+
+### Computer Vision
+- **OpenCV** - Image processing and analysis
+- **Object Detection** - YOLO, R-CNN architectures
+- **Image Classification** - CNN implementations
+- **Video Analytics** - Real-time processing
+
+### Natural Language Processing
+- **Text Analysis** - Sentiment analysis, classification
+- **Language Models** - Transformer architectures
+- **NLP Libraries** - NLTK, spaCy
+
+### AI in Testing
+- **AI-powered Test Generation** - Intelligent test case creation
+- **Anomaly Detection** - Identifying test failures
+- **Predictive Analytics** - Test optimization
+- **ML Model Testing** - Validation strategies
+
+---
+
+## Performance Testing & Automation
+
+### Performance Testing (Expert Level)
+- **C# Performance Testing** - Load, stress, and endurance testing
+- **Performance Profiling** - Memory and CPU optimization
+- **Load Testing Tools** - JMeter, k6, Gatling
+- **APM Tools** - Application Performance Monitoring
+- **Performance Metrics** - Response time, throughput, resource utilization
 
 ### Test Automation Frameworks
 - **Selenium WebDriver** - Web application testing
@@ -104,13 +138,18 @@ author_profile: true
 🏆 **ISTQB Certified Tester Foundation Level**  
 International Software Testing Qualifications Board
 
+🏆 **Correlation One Certificate**  
+Government Course - Data Analytics and Decision Making
+
 ---
 
 ## Currently Learning
 
-- Advanced Azure cloud services
+- Advanced Deep Learning architectures
+- MLOps and ML model deployment
+- Advanced Azure AI services
 - Kubernetes for test orchestration
-- AI-powered test generation
+- Reinforcement Learning
 - Advanced IoT security patterns
 
 ---
