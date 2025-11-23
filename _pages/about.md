@@ -10,7 +10,7 @@ redirect_from:
 
 ## Hi, I'm Fabio! 👋
 
-I'm an Automation Tester Engineer at EPAM Systems, where I design and implement enterprise-level test automation frameworks for .NET applications, with specialized expertise in Performance Testing using C#. With a background in Electronic Engineering and a passion for AI and emerging technologies, I bridge the gap between intelligent systems and robust software testing.
+I'm an Automation Tester Engineer at EPAM Systems, where I design and implement enterprise-level test automation frameworks for .NET applications, with specialized expertise in Performance Testing. With a background in Electronic Engineering and a passion for AI and emerging technologies, I bridge the gap between intelligent systems and robust software testing.
 
 Currently pursuing my Master's degree in Information Science and Communications at Universidad Distrital Francisco José de Caldas, I'm exploring the intersection of Artificial Intelligence, automated testing, and IoT systems.
 

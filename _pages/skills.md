@@ -70,7 +70,6 @@ author_profile: true
 ### Databases
 - **SQL Server** - Query optimization and database testing
 - **MongoDB** - NoSQL database experience
-- **Redis** - Caching strategies
 
 ### Version Control
 - Git & GitHub
@@ -97,7 +96,7 @@ author_profile: true
 - I2C, SPI, UART
 - MQTT, HTTP/REST
 - Bluetooth, WiFi
-- LoRaWAN basics
+- Zigbee
 
 ---
 
