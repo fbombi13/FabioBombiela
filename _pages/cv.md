@@ -17,9 +17,6 @@ AI & Automation Engineer with 5+ years of experience in test automation, perform
 
 ## Education
 
-**M.Sc. Information and Communications Sciences** (In Progress)  
-Universidad Distrital Francisco José de Caldas | 2021 - Present  
-*Focus: Artificial Intelligence, IoT Systems, Data Analytics*
 
 **B.Sc. Electronic Engineering** | 2019  
 Universidad Distrital Francisco José de Caldas  
